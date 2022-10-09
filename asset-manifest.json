@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/popular-tour-places/static/css/main.e6e2607f.css",
+    "main.js": "/popular-tour-places/static/js/main.2ac1f0a6.js",
+    "index.html": "/popular-tour-places/index.html",
+    "main.e6e2607f.css.map": "/popular-tour-places/static/css/main.e6e2607f.css.map",
+    "main.2ac1f0a6.js.map": "/popular-tour-places/static/js/main.2ac1f0a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6e2607f.css",
+    "static/js/main.2ac1f0a6.js"
+  ]
+}
